@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.swp
+.venv/
+.env
+
+# Local artifacts
+downloads/
+media/
+models/
+.cache/
+*.mp4
+*.webm
+*.mp3
+*.wav
+*.m4a
+*.vtt
+*.srt
+processing.log
+
+# Node/editor cruft
+.vscode/
+.idea/
